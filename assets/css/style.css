@@ -1,0 +1,48 @@
+.headerweb {
+  height: 5em;
+  padding: 2em;
+  font-size: 2em;
+  background-image: url("../img/PhotoHeader.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.container {
+  height: 25em;
+  position: relative;
+}
+
+.image {
+  height: 20em;
+  position: absolute;
+  left: 0;
+  top: 5em;
+}
+.text {
+  position: absolute;
+  left: 22em;
+  right: 30em;
+  bottom: 0em;
+  text-align: justify;
+}
+
+.iconos {
+  width: 2em;
+  height: 2em;
+  background-color: white;
+  border-radius: 50%;
+}
+
+footer {
+  background-color: black;
+  height: 8em;
+}
+
+.bloque {
+  text-align: center;
+  display: inline-block;
+  width: 29em;
+  padding: 0 10px;
+  color: white;
+}
